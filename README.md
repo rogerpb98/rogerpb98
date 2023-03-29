@@ -31,7 +31,7 @@ Junior backend developer with experience in developing web sites and application
 
 <details>
  <summary><h2>👨‍💻 Roger's Coding Journey</h2></summary>
-   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur molestie eleifend nisl, sed congue nisi fermentum a. Suspendisse odio justo, commodo iaculis odio et, luctus porta nisl. Nulla suscipit, velit vel vulputate maximus, lacus elit eleifend magna, sed lobortis nisl dui quis odio. Suspendisse eu nulla nec tortor rutrum cursus non non ante. Vivamus sem ex, placerat vel accumsan ut, finibus sit amet augue. Proin lorem arcu, rhoncus non mauris et, lacinia euismod tellus. Proin feugiat sem in rutrum placerat. Proin commodo non eros in mattis. Proin ultricies ligula id lorem pulvinar facilisis.
+   Work in Progress.
 
 [website]: TODO
 [linkedin]: TODO
